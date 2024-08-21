@@ -1,5 +1,14 @@
 # devops-basics
-## 1. git 
+## 1. git
+    ```
+      git clone < repo >
+      cd repo 
+      vim  file ############ add or remove or create
+      git add .
+      git commit -m "message"
+      git push -u origin branch 
+        
+    ``` 
 ## 2. maven
 ## 3. jenkins 
 

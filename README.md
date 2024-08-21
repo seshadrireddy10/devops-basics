@@ -13,6 +13,20 @@
       c . information about vim
 ```
       vim  file ############ add or remove or create
+
+
+     d. how to add date into vim 
+ 
+             insert 
+
+    e . how to save and exits in vim 
+     
+
+          Esc   shift +: wq
+ 
+
+             
+
 ```
 ```
 

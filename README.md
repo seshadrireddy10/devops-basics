@@ -1,7 +1,11 @@
 # devops-basics
 ## 1. git
+
+    a . clone the code Repo to your current working dir 
 ```
       git clone < repo >
+```
+```
       cd repo 
       vim  file ############ add or remove or create
       git add .

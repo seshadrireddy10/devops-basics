@@ -5,8 +5,10 @@
 ```
       git clone < repo >
 ```
+    b .  changing the repo   
 ```
       cd repo 
+```
       vim  file ############ add or remove or create
       git add .
       git commit -m "message"
